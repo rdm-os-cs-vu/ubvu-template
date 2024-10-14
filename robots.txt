@@ -1,1 +1,1 @@
-Sitemap: https://shuaiwangvu.github.io/handbook-template/sitemap.xml
+Sitemap: https://rdm-os-cs-vu.github.io/ubvu-template/sitemap.xml
